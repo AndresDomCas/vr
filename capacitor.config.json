@@ -1,0 +1,6 @@
+{
+  "appId": "com.vrexample",
+  "appName": "vr",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
